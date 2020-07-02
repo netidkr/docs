@@ -1,0 +1,8 @@
+baseURL = "https://netidkr.github.io/blog"
+languageCode = "ko-KR"
+title = "dhpark's blog"
+theme = "hugo-theme-learn"
+
+[author]
+	name = "PARK DAE HYUN"
+	email = "netidkr@naver.com"
